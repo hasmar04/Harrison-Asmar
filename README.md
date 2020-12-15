@@ -1,6 +1,6 @@
 ## Some Of My Projects
 - PiAlarmClock
-- Cross-platform sticky notes
+- RFID Tag Pet Door
 
 ## What I Do
 - I enjoy programming and learning about everything to do with technology through practical activities and experiments. I feel the best way to learn is to do something like you would in the real world, not in a unrealistically problem-free simulator. 
